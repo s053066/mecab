@@ -1,9 +1,10 @@
-yè‡z
-1.‰º‹L‚ÌMeCab–{‘Ì‚ÌƒCƒ“ƒXƒg[ƒ‹
-https://drive.google.com/uc?export=download&id=0B4y35FiV1wh7WElGUGt6ejlpVXc
-2.ƒpƒX‚ğ’Ê‚·
-set PATH=%PATH%;C:\Program Files (x86)\MeCab\bin
-3.pip‚ÅƒCƒ“ƒXƒg[ƒ‹
-py -m pip install mecab-python-windows
+ã€æ‰‹é †ã€‘  
+1.ä¸‹è¨˜ã®MeCabæœ¬ä½“ã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«  
+https://drive.google.com/uc?export=download&id=0B4y35FiV1wh7WElGUGt6ejlpVXc  
+2.ãƒ‘ã‚¹ã‚’é€šã™  
+set PATH=%PATH%;C:\Program Files (x86)\MeCab\bin  
+3.pipã§ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«  
+py -m pip install mecab-python-windows  
 
-Œã‚ÍƒR[ƒh‚ÅŒŸØ!
+å¾Œã¯ã‚³ãƒ¼ãƒ‰ã§æ¤œè¨¼!  
+
